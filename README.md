@@ -108,7 +108,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-adhikariastha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adhikariastha)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=GWzG-7gAAAAJ&hl=en)
 [![X](https://img.shields.io/badge/X-@IAhtsa-121212?style=for-the-badge&logo=x&logoColor=white)](https://x.com/IAhtsa)
-[![Email](https://img.shields.io/badge/Email-astha@booked.ai-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:astha@booked.ai)
+[![Email](https://img.shields.io/badge/Email-hello@asthaadhikari.com.np-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@asthaadhikari.com.np)
 
 <br />
 
